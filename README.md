@@ -37,9 +37,3 @@ The notebook demonstrates **data preprocessing, visualization, and regression mo
 - **Matplotlib, Seaborn** (Data visualization)  
 - **Scikit-learn** (Machine Learning models)  
 
----
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/international-hotel-booking-analysis.git
