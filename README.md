@@ -7,7 +7,7 @@ The notebook demonstrates **data preprocessing, visualization, and regression mo
 
 ## 📂 Project Structure
 - **Hotel Booking Analysis.ipynb** → Jupyter notebook containing the entire workflow.
-- **Dataset** → Hotel booking dataset (CSV file, not included in repo due to size/privacy).
+- **Dataset** → https://www.kaggle.com/datasets/manikvaranasi/hotel-booking-analysis.
 
 ---
 
